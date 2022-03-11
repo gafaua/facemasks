@@ -3,3 +3,4 @@ numpy
 mmcv
 pillow
 ipython
+ipykernel
